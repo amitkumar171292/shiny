@@ -381,3 +381,4 @@ scm agent restarted 
 Installation script completed successfully.
 all done 
 closing logging file descriptor 
+http://www.yourtechchick.com/hadoop/failed-receive-heartbeat-agent-cloudera-hadoop/
